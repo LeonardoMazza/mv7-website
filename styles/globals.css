@@ -1,8 +1,26 @@
 @import 'tailwindcss';
 
 :root {
+    /* 🎨 Colors */
     --background: #ffffff;
     --foreground: #171717;
+    --primary: #fd8d01;
+    --secondary: #000000;
+    --title: #ffffff;
+    --text: #a7a7a7;
+
+    /* 🧍 Spacing scale (8px system) */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+    --space-2xl: 48px;
+
+    /* 💫 Border radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
 }
 
 @theme inline {
@@ -22,5 +40,6 @@
 body {
     background: var(--background);
     color: var(--foreground);
-    font-family: Arial, Helvetica, sans-serif;
+    /* 🖋️ Typography */
+    font-family: "Inter", sans-serif;
 }
