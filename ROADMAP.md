@@ -49,7 +49,7 @@ Each section of the Home page will be an independent component to keep the layou
 - [x] Configure Tailwind CSS
 - [x] Add ESLint + Prettier
 - [x] Create initial folder structure
-- [ ] Add assets (logo, icons, base images)
+- [x] Add assets (logo, icons, base images)
 
 ### 💡 Stage 2 — Global Layout
 
