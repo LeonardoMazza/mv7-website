@@ -47,7 +47,7 @@ Each section of the Home page will be an independent component to keep the layou
 
 - [x] Create the project using `create-next-app`
 - [x] Configure Tailwind CSS
-- [ ] Add ESLint + Prettier
+- [x] Add ESLint + Prettier
 - [x] Create initial folder structure
 - [ ] Add assets (logo, icons, base images)
 
