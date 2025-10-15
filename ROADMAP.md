@@ -45,17 +45,17 @@ Each section of the Home page will be an independent component to keep the layou
 
 ### 🧩 Stage 1 — Setup & Fundamentals
 
-* [ ] Create the project using `create-next-app`
-* [ ] Configure Tailwind CSS
-* [ ] Add ESLint + Prettier
-* [ ] Create initial folder structure
-* [ ] Add assets (logo, icons, base images)
+- [x] Create the project using `create-next-app`
+- [x] Configure Tailwind CSS
+- [ ] Add ESLint + Prettier
+- [x] Create initial folder structure
+- [ ] Add assets (logo, icons, base images)
 
 ### 💡 Stage 2 — Global Layout
 
-* [ ] Create `Layout` with **Header** and **Footer**
-* [ ] Implement responsive navigation (mobile menu)
-* [ ] Set up global container and style tokens (colors, typography)
+- [ ] Create `Layout` with **Header** and **Footer**
+- [ ] Implement responsive navigation (mobile menu)
+- [ ] Set up global container and style tokens (colors, typography)
 
 ### 🏗️ Stage 3 — Pages & Sections
 
@@ -76,28 +76,28 @@ Each component must be **mobile-first**, progressively enhanced for tablet and d
 
 ### ⚙️ Stage 4 — Data & Integration
 
-* [ ] Create `/data` folder and `.ts` files with mock content
-* [ ] Connect static data to components via imports
+- [ ] Create `/data` folder and `.ts` files with mock content
+- [ ] Connect static data to components via imports
 
 ### 📈 Stage 5 — Performance & Accessibility
 
-* [ ] Use `next/image` for image optimization
-* [ ] Add SEO metadata and Open Graph tags
-* [ ] Test accessibility (keyboard navigation, aria-labels, headings)
+- [ ] Use `next/image` for image optimization
+- [ ] Add SEO metadata and Open Graph tags
+- [ ] Test accessibility (keyboard navigation, aria-labels, headings)
 
 ### 🚀 Stage 6 — Deployment & Final Review
 
-* [ ] Set up automatic deployment with Vercel
-* [ ] Test on real mobile devices and with Lighthouse
-* [ ] Final review for SEO, performance, and accessibility
+- [ ] Set up automatic deployment with Vercel
+- [ ] Test on real mobile devices and with Lighthouse
+- [ ] Final review for SEO, performance, and accessibility
 
 ---
 
 ## 💾 Future Enhancements
 
-* Add portfolio page with individual project details
-* Implement multi-language support (i18n)
-* Add a simple blog (MDX-based)
+- Add portfolio page with individual project details
+- Implement multi-language support (i18n)
+- Add a simple blog (MDX-based)
 
 ---
 

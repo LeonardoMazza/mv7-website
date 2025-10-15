@@ -10,12 +10,12 @@ The site includes multiple sections such as Hero, About, Logos Carousel, Stats, 
 
 ## 🛠️ Tech Stack
 
-* [Next.js](https://nextjs.org/)
-* [React](https://react.dev/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* TypeScript *(optional but recommended)*
-* ESLint + Prettier
-* Vercel (for deployment)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- TypeScript _(optional but recommended)_
+- ESLint + Prettier
+- Vercel (for deployment)
 
 ---
 
@@ -98,12 +98,12 @@ For a full breakdown, see the [`ROADMAP.md`](./ROADMAP.md).
 
 ```json
 {
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  }
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    }
 }
 ```
 
@@ -111,8 +111,8 @@ For a full breakdown, see the [`ROADMAP.md`](./ROADMAP.md).
 
 ## 📦 Deployment
 
-* Deploys automatically on **Vercel** when pushed to the `main` branch.
-* Preview deployments available for pull requests.
+- Deploys automatically on **Vercel** when pushed to the `main` branch.
+- Preview deployments available for pull requests.
 
 ---
 
