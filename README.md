@@ -57,7 +57,7 @@ The site includes multiple sections such as Hero, About, Logos Carousel, Stats, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/leonardo-mazza/mv7-website.git
+git clone https://github.com/LeonardoMazza/mv7-website.git
 cd mv7-website
 ```
 
