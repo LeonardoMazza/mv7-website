@@ -18,6 +18,8 @@ const eslintConfig = [
             'prettier/prettier': [
                 'error',
                 {
+                    endOfLine: 'auto',
+                    eslintIntegration: true,
                     semi: false,
                     singleQuote: true,
                     printWidth: 100,
